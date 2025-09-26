@@ -2,7 +2,7 @@
 
 UE : INF 231 – Structure de Données II
 
-Encadrant : Pr. Metatagia
+Encadrant : Pr. Melatagia
 
 
 
